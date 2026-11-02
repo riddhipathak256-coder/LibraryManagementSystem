@@ -146,7 +146,7 @@ LibraryManagementSystemProject/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/riddhipathak256-coder/LibraryManagementSystem.git
 ```
 
 ### Step 2: Setup Backend
